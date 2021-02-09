@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 * Студент: [Анастасия Павлова](https://up.htmlacademy.ru/htmlcss/30/user/1622709).
-* Наставник[Семён Якушев](https://up.htmlacademy.ru/htmlcss/30/user/1118791)
+* Наставник: [Семён Якушев](https://up.htmlacademy.ru/htmlcss/30/user/1118791)
 
 
 ---
